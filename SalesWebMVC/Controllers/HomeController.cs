@@ -25,7 +25,10 @@ namespace SalesWebMVC.Controllers
 
         public IActionResult Privacy()
         {
-            return View();
+            ViewData["Message"] = "Salles Web MVC App from C# Course";
+            ViewData["Aluno"] = "Elias Matheus Souza";
+
+            return PartialView();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
