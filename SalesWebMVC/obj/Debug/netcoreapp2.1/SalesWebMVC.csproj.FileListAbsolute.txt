@@ -1,0 +1,5 @@
+C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.AssemblyReference.cache
+C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfoInputs.cache
+C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfo.cs
+C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
