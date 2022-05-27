@@ -58,6 +58,19 @@ namespace SalesWebMVC.Controllers
         {
             if (ModelState.IsValid)
             {
+
+                //var vendedor = new Seller();
+                //vendedor.Name = "Elias";
+
+                //var vendedor2 = new Seller();
+                //vendedor2.Name = "Matheus";
+
+                //department.Sellers = new List<Seller>()
+                //{
+                //   vendedor,
+                //   vendedor2
+                //};
+
                 _context.Add(department);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));

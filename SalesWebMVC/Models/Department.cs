@@ -8,7 +8,7 @@ namespace SalesWebMVC.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public ICollection<Seller> Sellers { get; set; } = new List<Seller>();
+        public List<Seller> Sellers { get; set; } = new List<Seller>(); //lista vendedores / ligação com a tabela de vendedores
 
         public Department()
         {
@@ -30,4 +30,24 @@ namespace SalesWebMVC.Models
             return Sellers.Sum(seller => seller.TotalSales(initial, final));
         }
     }
+
+    //public class aula
+    //{
+
+
+    //    public aula()
+    //    {
+    //        Department depart = new Department(1, "elias");
+    //        //depart.Id = 123;
+    //        //salvar no banco
+    //        depart.Sellers = new List<Seller>()
+    //        {
+    //        new Seller(), new Seller(), new Seller()
+    //        };
+
+
+
+    //    }
+
+    //}
 }
