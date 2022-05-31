@@ -155,3 +155,4 @@ C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\bin\Debug\ne
 C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
 C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\Elias Matheus\Desktop\VisualStudio\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Create.cshtml.g.cs
